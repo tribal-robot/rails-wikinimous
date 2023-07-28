@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+
+@import url("./navbar.css");
+@import url("./article_header.css");
